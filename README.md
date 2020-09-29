@@ -1,4 +1,4 @@
-### Hello World 👋 It's [@the.pro.developer!](https://in.linkedin.com/in/mohammad-arsalan-3a2377191)
+### Hello World 👋 It's [Arsalan!](https://in.linkedin.com/in/mohammad-arsalan-3a2377191)
 
 <br/>
 
@@ -7,7 +7,7 @@
 <a href="https://in.linkedin.com/in/mohammad-arsalan-3a2377191">
 <img align="left" alt="developer" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/the.pro.developer/">
+<a href="https://www.instagram.com/_.arsalaan._/">
 <img align="left" alt="developer" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <br />
@@ -40,6 +40,6 @@ Hi,I'm a Web Developer, Technical Content Writer and Problem Setter. Apart from 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-![the.pro.developer's github stats](https://github-readme-stats.vercel.app/api?username= bradtraversy&show_icons=true&hide_border=true)
+![the.pro.developer's github stats](https://github-readme-stats.vercel.app/api?username= arsalanhub&show_icons=true&hide_border=true)
 
 
