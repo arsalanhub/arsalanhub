@@ -1,15 +1,9 @@
 ### Hello World 👋 It's [Arsalan!](https://in.linkedin.com/in/mohammad-arsalan-3a2377191)
 **I'm a Full-stack Web Developer and Javascript Enthusiast!**
 
-**Connect with me:**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arsalanhub&label=Profile%20views&color=0e75b6&style=flat" alt="arsalanhub" /> </p>
 
-<a href="https://in.linkedin.com/in/mohammad-arsalan-3a2377191">  
-<img align="left" alt="developer" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://twitter.com/_Arsalaan_">
-  <img align="left" alt="developer" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>  
-<br/><br/>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arsalanhub" alt="arsalanhub" /></a> </p>
 
 
 **Languages and Tools:**
